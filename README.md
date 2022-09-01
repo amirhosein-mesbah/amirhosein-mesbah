@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Amir from Iran,  and I am a graduate student an Research Assistant at the university of Tehran. I really enjoy learning about machine learning and Brain Stuff. you can check my twitter at https://twitter.com/Amirh_mesbah.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhosein-mesbah)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **amirhosein-mesbah/amirhosein-mesbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
