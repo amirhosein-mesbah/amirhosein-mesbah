@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">An AI and Brain Enthusiastic from Iran</h3>
+<h3 align="center">An RL and ML theory Enthusiastic from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosein-mesbah&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosein-mesbah" /> </p>
+Welcome to my personal GitHub page!
 
-- 🔭 I’m currently Looking for research positions on  **(Theoretical) Reinforcement Learning**
+I graduated from the University of Tehran with a master's degree in AI. During my master's, I worked on different Reinforcement Learning (RL) problems and gained hands-on experience in Deep Learning (DL).
+
+I am interested in the **theoretical foundations of RL and DL**, including topics like:
+
+Life Long RL
+Structural Representation Learning
+Offline-to-Online Learning
+Optimization Dynamics
+Inductive Biases and Efficient DL Architecture
+
+- 🔭 I’m currently Looking for PhD positions.
+
+Also check [my website](https://amirhosein-mesbah.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
