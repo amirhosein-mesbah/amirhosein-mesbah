@@ -13,9 +13,9 @@ I am interested in the **theoretical foundations of RL and DL**, including topic
 - Structural Representation Learning
 - Offline-to-Online Learning
 - Optimization Dynamics
-- Inductive Biases and Efficient DL Architecture
+- Inductive Biases and Efficient DL Architecture  
 
-- 🔭 I’m currently Looking for PhD positions.
+ **🔭 I’m currently Looking for PhD positions.**
 
 Also check [my website](https://amirhosein-mesbah.github.io/)
 
