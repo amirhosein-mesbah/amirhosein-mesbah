@@ -9,11 +9,11 @@ I graduated from the University of Tehran with a master's degree in AI. During m
 
 I am interested in the **theoretical foundations of RL and DL**, including topics like:
 
-Life Long RL
-Structural Representation Learning
-Offline-to-Online Learning
-Optimization Dynamics
-Inductive Biases and Efficient DL Architecture
+- Life Long RL
+- Structural Representation Learning
+- Offline-to-Online Learning
+- Optimization Dynamics
+- Inductive Biases and Efficient DL Architecture
 
 - 🔭 I’m currently Looking for PhD positions.
 
