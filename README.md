@@ -17,7 +17,7 @@ I am interested in the **theoretical foundations of RL and DL**, including topic
 
  **🔭 I’m currently Looking for PhD positions.**
 
-Check [my website](https://amirhosein-mesbah.github.io/)
+You can also Check [my website](https://amirhosein-mesbah.github.io/) 👀
 
 ## Important Repositories
 --------------------------------------------------------------------
@@ -25,7 +25,7 @@ Check [my website](https://amirhosein-mesbah.github.io/)
 - [Reinforcement Learning Projects](https://github.com/amirhosein-mesbah/Reinforcement_learning)
 - [Deep Learning Projects](https://github.com/amirhosein-mesbah/Deep_Learning)
 
-## Connect with me 
+## Let's Connect
 <p align="left">
 <a href="https://twitter.com/amirh_mesbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirh_mesbah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amirhossein-mesbah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhossein-mesbah/" height="30" width="40" /></a>
