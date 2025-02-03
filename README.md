@@ -20,7 +20,7 @@ I am interested in the **theoretical foundations of RL and DL**, including topic
 You can also Check [my website](https://amirhosein-mesbah.github.io/) 👀
 
 ## Important Repositories
---------------------------------------------------------------------
+
 - My Learning [Resources](https://github.com/amirhosein-mesbah/Resources/): I update this repository frequently to add my resources for learning RL, ML, and DL.
 - [Reinforcement Learning Projects](https://github.com/amirhosein-mesbah/Reinforcement_learning)
 - [Deep Learning Projects](https://github.com/amirhosein-mesbah/Deep_Learning)
