@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">An RL and ML theory Enthusiastic from Iran</h3>
+<h3 align="center">An RL and ML theory enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosein-mesbah&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosein-mesbah" /> </p>
 
@@ -15,9 +15,9 @@ I am interested in the **theoretical foundations of RL and DL**, including topic
 - Optimization Dynamics
 - Inductive Biases and Efficient DL Architecture  
 
- **🔭 I’m currently Looking for PhD positions.**
+ **🔭 I’m currently looking for PhD positions.**
 
-You can also Check [my website](https://amirhosein-mesbah.github.io/) 👀
+You can also check [my website](https://amirhosein-mesbah.github.io/) 👀
 
 ## Important Repositories
 
