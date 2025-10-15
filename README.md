@@ -15,7 +15,6 @@ I am interested in the **theoretical foundations of RL and DL**, including topic
 - Optimization Dynamics
 - Inductive Biases and Efficient DL Architecture  
 
- **🔭 I’m currently looking for PhD positions.**
 
 You can also check [my website](https://amirhosein-mesbah.github.io/) 👀
 
