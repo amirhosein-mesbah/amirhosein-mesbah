@@ -21,6 +21,7 @@ You can also check [my website](https://amirhosein-mesbah.github.io/) 👀
 ## Important Repositories
 
 - My Learning [Resources](https://github.com/amirhosein-mesbah/Resources/): I update this repository frequently to add my resources for learning RL, ML, and DL.
+- [CleanRL-Papers](https://github.com/amirhosein-mesbah/CleanRL-Papers): A list of my CleanRL implementation of RL papers' experiments.
 - [Reinforcement Learning Projects](https://github.com/amirhosein-mesbah/Reinforcement_learning)
 - [Deep Learning Projects](https://github.com/amirhosein-mesbah/Deep_Learning)
 
